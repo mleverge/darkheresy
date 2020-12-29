@@ -36,8 +36,8 @@ z-index: 9999;
 .charsheet span.sheet-tab  {
 text-align: center;
 display: inline-block;
-background: #bcd4e6;
-color: black;
+background: #C2272D;
+color: #FFD700;
 border: solid 1px rgba(0, 0, 0, 0.35);
 font-size: 17px;
 font-weight: bold;
@@ -48,7 +48,7 @@ cursor: pointer;
 position: relative;
 vertical-align: middle;
 margin-left: -98px;
-background-image: url(http://i.imgur.com/5GbMHfg.png);
+/*background-image: url(https://github.com/mleverge/darkheresy/blob/main/logo.png?raw=true);*/
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -164,7 +164,7 @@ border: none;
 
 /* Main Styles */
 .charsheet {
-background-image: url(http://i.imgur.com/PWr9jAR.png);
+background-image: url(https://github.com/mleverge/darkheresy/blob/main/background.png?raw=true);
 background-size:100%;
 font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 font-size: 14px;
