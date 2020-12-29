@@ -164,7 +164,7 @@ border: none;
 
 /* Main Styles */
 .charsheet {
-background-image: url(https://github.com/mleverge/darkheresy/blob/main/background.png?raw=true);
+background-image: url(https://github.com/mleverge/darkheresy/blob/main/pictures/background.png?raw=true);
 background-size:100%;
 font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 font-size: 14px;
@@ -533,7 +533,7 @@ position: relative;
 }
 /* Header formatting */
 .sheet-rolltemplate-custom .sheet-header {
-    background-image: url(https://raw.githubusercontent.com/roguetradermago/rogue-trader-sheet/master/templateheader.png);
+    background-image: url(https://github.com/mleverge/darkheresy/blob/main/pictures/top_roll.png?raw=true);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -543,7 +543,7 @@ position: relative;
 }
 /* footer formatting */
 .sheet-rolltemplate-custom .sheet-footer {
-    background-image: url(https://raw.githubusercontent.com/roguetradermago/rogue-trader-sheet/master/templatefooter.png);
+    background-image: url(https://github.com/mleverge/darkheresy/blob/main/pictures/bottom_roll.png?raw=true);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
